@@ -3,7 +3,8 @@
 A Distributed Background Task Processing System written in Java, using Redis for job queuing.
 
 **High level overview**
-    ![overview](WorkQueue.png)
+    <img width="1573" height="768" alt="image" src="https://github.com/user-attachments/assets/da59ef63-c26c-4be4-ab70-f8a2c8db2cee" />
+
 
 
 ## What's the need for this?
@@ -156,4 +157,4 @@ private void processTask(Task task) {
 
 ---
 
-Created by - mayankdevelops
+Created by - mayankdevelops25
